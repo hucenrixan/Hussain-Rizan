@@ -33,7 +33,7 @@
             <!-- Floating Stats (Optional) -->
             <div class="mt-8 sm:mt-10 grid grid-cols-2 md:grid-cols-3 gap-6 sm:gap-8 pt-6 border-t border-white/10">
                 <div>
-                    <p class="text-2xl sm:text-3xl font-black text-white">4+</p>
+                    <p class="text-2xl sm:text-3xl font-black text-white">2+</p>
                     <p class="text-[10px] sm:text-sm text-gray-400 font-medium uppercase tracking-wider">Years Exp.</p>
                 </div>
                 <div>
