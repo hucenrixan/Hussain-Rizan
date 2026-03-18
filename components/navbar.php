@@ -10,6 +10,7 @@
                 <a href="index.php" class="<?php echo $currentPage == 'home' ? 'text-gray-900 font-semibold border-b-2 border-gray-900 py-1' : 'text-gray-600 hover:text-gray-900 transition'; ?>">Home</a>
                 <a href="about.php" class="<?php echo $currentPage == 'about' ? 'text-gray-900 font-semibold border-b-2 border-gray-900 py-1' : 'text-gray-600 hover:text-gray-900 transition'; ?>">About Me</a>
                 <a href="index.php#skills" class="text-gray-600 hover:text-gray-900 transition">Skills</a>
+                <a href="index.php#projects" class="text-gray-600 hover:text-gray-900 transition">Projects</a>
                 <a href="contact.php" class="<?php echo $currentPage == 'contact' ? 'text-gray-900 font-semibold border-b-2 border-gray-900 py-1' : 'text-gray-600 hover:text-gray-900 transition'; ?>">Contact</a>
             </div>
             <div class="hidden md:flex items-center space-x-4">
@@ -36,6 +37,7 @@
         <a href="index.php" class="block px-3 py-2 rounded-md text-base font-medium <?php echo $currentPage == 'home' ? 'bg-gray-100 text-gray-900' : 'text-gray-600 hover:bg-gray-50 hover:text-gray-900'; ?>">Home</a>
         <a href="about.php" class="block px-3 py-2 rounded-md text-base font-medium <?php echo $currentPage == 'about' ? 'bg-gray-100 text-gray-900' : 'text-gray-600 hover:bg-gray-50 hover:text-gray-900'; ?>">About Me</a>
         <a href="index.php#skills" class="block px-3 py-2 rounded-md text-base font-medium text-gray-600 hover:bg-gray-50 hover:text-gray-900">Skills</a>
+        <a href="index.php#projects" class="block px-3 py-2 rounded-md text-base font-medium text-gray-600 hover:bg-gray-50 hover:text-gray-900">Projects</a>
         <a href="contact.php" class="block px-3 py-2 rounded-md text-base font-medium <?php echo $currentPage == 'contact' ? 'bg-gray-100 text-gray-900' : 'text-gray-600 hover:bg-gray-50 hover:text-gray-900'; ?>">Contact</a>
         <div class="pt-4 flex space-x-6 px-3">
             <a href="https://wa.me/9609707788" target="_blank" class="text-gray-600 hover:text-green-500 text-2xl transition"><i class="fab fa-whatsapp"></i></a>

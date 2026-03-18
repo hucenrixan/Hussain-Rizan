@@ -96,6 +96,9 @@
         </div>
     </section>
 
+    <!-- Projects Section -->
+    <?php require_once 'components/projects.php'; ?>
+
     <!-- Footer -->
     <?php require_once 'components/footer.php'; ?>
 
