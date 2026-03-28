@@ -30,7 +30,6 @@
                 <div class="space-y-6">
                     <h3 class="text-2xl font-semibold text-gray-800 border-b-2 border-gray-200 pb-2">Frontend Development</h3>
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                        <!-- HTML5 -->
                         <div class="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition">
                             <div class="flex items-center space-x-4 mb-3">
                                 <div class="w-10 h-10 bg-orange-100 text-orange-600 rounded-lg flex items-center justify-center">
@@ -40,24 +39,40 @@
                             </div>
                             <p class="text-sm text-gray-600">Semantic markup and accessibility standards.</p>
                         </div>
-                        <!-- CSS3 -->
                         <div class="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition">
                             <div class="flex items-center space-x-4 mb-3">
-                                <div class="w-10 h-10 bg-gray-200 text-gray-700 rounded-lg flex items-center justify-center">
+                                <div class="w-10 h-10 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center">
                                     <i class="fab fa-css3-alt text-xl"></i>
                                 </div>
                                 <h4 class="font-bold">CSS3 / Tailwind</h4>
                             </div>
                             <p class="text-sm text-gray-600">Modern, responsive designs and animations.</p>
                         </div>
+                        <div class="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition">
+                            <div class="flex items-center space-x-4 mb-3">
+                                <div class="w-10 h-10 bg-yellow-100 text-yellow-600 rounded-lg flex items-center justify-center">
+                                    <i class="fab fa-js text-xl"></i>
+                                </div>
+                                <h4 class="font-bold">JavaScript</h4>
+                            </div>
+                            <p class="text-sm text-gray-600">Interactive, dynamic frontend experiences.</p>
+                        </div>
+                        <div class="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition">
+                            <div class="flex items-center space-x-4 mb-3">
+                                <div class="w-10 h-10 bg-cyan-100 text-cyan-600 rounded-lg flex items-center justify-center">
+                                    <i class="fab fa-react text-xl"></i>
+                                </div>
+                                <h4 class="font-bold">Next.js / React</h4>
+                            </div>
+                            <p class="text-sm text-gray-600">Modern full-stack React framework.</p>
+                        </div>
                     </div>
                 </div>
 
-                <!-- Backend & Logic -->
+                <!-- Backend & Frameworks -->
                 <div class="space-y-6">
                     <h3 class="text-2xl font-semibold text-gray-800 border-b-2 border-gray-200 pb-2">Backend & Frameworks</h3>
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                        <!-- PHP -->
                         <div class="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition">
                             <div class="flex items-center space-x-4 mb-3">
                                 <div class="w-10 h-10 bg-gray-200 text-gray-700 rounded-lg flex items-center justify-center">
@@ -67,7 +82,6 @@
                             </div>
                             <p class="text-sm text-gray-600">Robust server-side logic and API development.</p>
                         </div>
-                        <!-- Laravel -->
                         <div class="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition">
                             <div class="flex items-center space-x-4 mb-3">
                                 <div class="w-10 h-10 bg-red-100 text-red-600 rounded-lg flex items-center justify-center">
@@ -77,6 +91,58 @@
                             </div>
                             <p class="text-sm text-gray-600">Full-stack web application development.</p>
                         </div>
+                        <div class="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition">
+                            <div class="flex items-center space-x-4 mb-3">
+                                <div class="w-10 h-10 bg-green-100 text-green-600 rounded-lg flex items-center justify-center">
+                                    <i class="fab fa-node-js text-xl"></i>
+                                </div>
+                                <h4 class="font-bold">Node.js</h4>
+                            </div>
+                            <p class="text-sm text-gray-600">Server-side JavaScript and API services.</p>
+                        </div>
+                        <div class="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition">
+                            <div class="flex items-center space-x-4 mb-3">
+                                <div class="w-10 h-10 bg-green-100 text-green-600 rounded-lg flex items-center justify-center">
+                                    <i class="fas fa-database text-xl"></i>
+                                </div>
+                                <h4 class="font-bold">MongoDB / MySQL</h4>
+                            </div>
+                            <p class="text-sm text-gray-600">Database design and management.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Mobile Development -->
+            <div class="mt-12">
+                <h3 class="text-2xl font-semibold text-gray-800 border-b-2 border-gray-200 pb-2 mb-6">Mobile & Software Development</h3>
+                <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                    <div class="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition">
+                        <div class="flex items-center space-x-4 mb-3">
+                            <div class="w-10 h-10 bg-gray-200 text-gray-800 rounded-lg flex items-center justify-center">
+                                <i class="fab fa-apple text-xl"></i>
+                            </div>
+                            <h4 class="font-bold">iOS Development</h4>
+                        </div>
+                        <p class="text-sm text-gray-600">Native iOS mobile applications.</p>
+                    </div>
+                    <div class="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition">
+                        <div class="flex items-center space-x-4 mb-3">
+                            <div class="w-10 h-10 bg-green-100 text-green-600 rounded-lg flex items-center justify-center">
+                                <i class="fab fa-android text-xl"></i>
+                            </div>
+                            <h4 class="font-bold">Android Development</h4>
+                        </div>
+                        <p class="text-sm text-gray-600">Android mobile applications.</p>
+                    </div>
+                    <div class="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition">
+                        <div class="flex items-center space-x-4 mb-3">
+                            <div class="w-10 h-10 bg-purple-100 text-purple-600 rounded-lg flex items-center justify-center">
+                                <i class="fas fa-cogs text-xl"></i>
+                            </div>
+                            <h4 class="font-bold">Software Solutions</h4>
+                        </div>
+                        <p class="text-sm text-gray-600">Custom software for business needs.</p>
                     </div>
                 </div>
             </div>

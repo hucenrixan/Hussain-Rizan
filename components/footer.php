@@ -4,7 +4,7 @@
             <!-- Brand & Bio -->
             <div class="space-y-4">
                 <h3 class="text-2xl font-bold tracking-tight">Hussain Riza</h3>
-                <p class="text-gray-400">Professional Web Developer from Maldives specializing in building high-quality web applications.</p>
+                <p class="text-gray-400">Web & Mobile App Developer from Maldives — building web applications, iOS & Android apps, and custom software.</p>
                 <div class="flex space-x-4">
                     <a href="https://wa.me/9609707788" target="_blank" class="text-gray-400 hover:text-green-500 transition text-xl"><i class="fab fa-whatsapp"></i></a>
                     <a href="#" target="_blank" class="text-gray-400 hover:text-blue-600 transition text-xl"><i class="fab fa-facebook"></i></a>
@@ -18,6 +18,7 @@
                 <ul class="space-y-4 text-gray-400">
                     <li><a href="index.php" class="hover:text-white transition">Home</a></li>
                     <li><a href="about.php" class="hover:text-white transition">About Me</a></li>
+                    <li><a href="portfolio.php" class="hover:text-white transition">Portfolio</a></li>
                     <li><a href="index.php#skills" class="hover:text-white transition">My Skills</a></li>
                     <li><a href="contact.php" class="hover:text-white transition">Contact</a></li>
                 </ul>
